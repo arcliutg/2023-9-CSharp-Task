@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Лаба 3.1\bin\Debug\net6.0-windows\Лаба 3.1.exe
+C:\Users\admin\source\repos\Лаба 3.1\bin\Debug\net6.0-windows\Лаба 3.1.deps.json
+C:\Users\admin\source\repos\Лаба 3.1\bin\Debug\net6.0-windows\Лаба 3.1.runtimeconfig.json
+C:\Users\admin\source\repos\Лаба 3.1\bin\Debug\net6.0-windows\Лаба 3.1.dll
+C:\Users\admin\source\repos\Лаба 3.1\bin\Debug\net6.0-windows\Лаба 3.1.pdb
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба_3._1.Form1.resources
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.AssemblyInfo.cs
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.dll
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\refint\Лаба 3.1.dll
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.pdb
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\Лаба 3.1.genruntimeconfig.cache
+C:\Users\admin\source\repos\Лаба 3.1\obj\Debug\net6.0-windows\ref\Лаба 3.1.dll
