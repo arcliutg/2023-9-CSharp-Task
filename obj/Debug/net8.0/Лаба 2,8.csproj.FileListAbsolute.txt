@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Лаба 2,8\bin\Debug\net8.0\Лаба 2,8.exe
+C:\Users\admin\source\repos\Лаба 2,8\bin\Debug\net8.0\Лаба 2,8.deps.json
+C:\Users\admin\source\repos\Лаба 2,8\bin\Debug\net8.0\Лаба 2,8.runtimeconfig.json
+C:\Users\admin\source\repos\Лаба 2,8\bin\Debug\net8.0\Лаба 2,8.dll
+C:\Users\admin\source\repos\Лаба 2,8\bin\Debug\net8.0\Лаба 2,8.pdb
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.AssemblyInfo.cs
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.dll
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\refint\Лаба 2,8.dll
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.pdb
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\Лаба 2,8.genruntimeconfig.cache
+C:\Users\admin\source\repos\Лаба 2,8\obj\Debug\net8.0\ref\Лаба 2,8.dll
